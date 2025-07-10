@@ -12,3 +12,9 @@ A simple web interface for generating images using Stable Diffusion v1.5.
 ```bash
 https://github.com/itz-Prince2022/AI-text-to-image-generator.git
 cd text_to_image_generator.ipynb
+
+
+##Results
+![Demo-1]{Screenshorts/1.png}
+![Demo-2]{Screenshorts/2.png}
+![Demo-3]{Screenshorts/3.png}
