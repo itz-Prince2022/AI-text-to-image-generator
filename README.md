@@ -4,9 +4,6 @@ A simple web interface for generating images using Stable Diffusion v1.5.
 
 ## Features
 - Text prompt to image generation
-- Negative prompt support
-- Adjustable inference steps and guidance scale
-- Example prompts
 - Responsive Gradio interface
 
 ## Setup
@@ -14,4 +11,4 @@ A simple web interface for generating images using Stable Diffusion v1.5.
 1. Clone the repository:
 ```bash
 https://github.com/itz-Prince2022/AI-text-to-image-generator.git
-cd AI-text-to-image-generator
+cd text_to_image_generator.ipynb
