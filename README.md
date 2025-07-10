@@ -32,6 +32,7 @@ Use Cases:
 
 
 Why Star This Repo? 🌟
+
 *Easy setup with pip install -r requirements.txt
 
 * Pre-trained models included
@@ -39,6 +40,7 @@ Why Star This Repo? 🌟
 * Active development & community support
 
 🚀 Get started now! Clone and run:
+
 *git clone https://github.com/itz-Prince2022/AI-text-to-image-generator.git
 *cd ai-text-to-image  
 *python generate.py --prompt "A futuristic city under the stars"  
