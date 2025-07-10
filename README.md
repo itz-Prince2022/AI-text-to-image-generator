@@ -15,6 +15,6 @@ cd text_to_image_generator.ipynb
 ```
 
 ##Results
-![Demo-1]{Screenshorts/1.png}
-![Demo-2]{Screenshorts/2.png}
-![Demo-3]{Screenshorts/3.png}
+![Demo Screenshots 1](./Screenshorts/1.png)
+![Demo Screenshots 2](./Screenshorts/2.png)
+![Demo Screenshots 3](./Screenshorts/3.png)
